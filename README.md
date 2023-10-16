@@ -25,5 +25,22 @@ In-depth knowledge of quality assurance, productivity
 improvement, and problem-solving skills
 
 ## Education
-B.Tech/B.E., 2020
-Manipal Institute of Technology
+#B.Tech/B.E., 2020
+#Manipal Institute of Technology
+
+##Work Experience
+Nov 2021 - Present
+#Data Analyst
+Elecroom Technologies
+Conducted data analysis to identify trends, patterns, and
+opportunities for process optimization, contributing to
+data-driven decision-making.Utilized Power BI for data
+visualization, reporting, and creating actionable insights.
+Managed multiple projects and IT-related backend
+operations, gaining proficiency in project management,
+cross-functional collaboration, and IT project leadership.
+Performed in-depth analysis to derive insights from sales
+report data that drive key business decisions
+Transformed a significant business development excel
+report to Power BI dashboard which can now be used in
+more user friendly manner
