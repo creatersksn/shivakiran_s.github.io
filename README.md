@@ -28,7 +28,7 @@ improvement, and problem-solving skills
 B.Tech/B.E., 2020
 Manipal Institute of Technology
 
-##Work Experience
+## Work Experience
 Nov 2021 - Present
 Data Analyst
 Elecroom Technologies
