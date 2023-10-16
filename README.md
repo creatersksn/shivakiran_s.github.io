@@ -25,12 +25,12 @@ In-depth knowledge of quality assurance, productivity
 improvement, and problem-solving skills
 
 ## Education
-#B.Tech/B.E., 2020
-#Manipal Institute of Technology
+B.Tech/B.E., 2020
+Manipal Institute of Technology
 
 ##Work Experience
 Nov 2021 - Present
-#Data Analyst
+Data Analyst
 Elecroom Technologies
 Conducted data analysis to identify trends, patterns, and
 opportunities for process optimization, contributing to
